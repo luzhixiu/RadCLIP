@@ -1,0 +1,9 @@
+numpy==2.2.6
+pandas==2.2.3
+pydicom==3.0.1
+torch==2.7.0
+torchvision==0.22.0
+scikit-learn==1.6.1
+matplotlib==3.10.3
+transformers==4.52.0
+Pillow==11.2.1
