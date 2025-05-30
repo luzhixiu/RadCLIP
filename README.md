@@ -1,4 +1,4 @@
-This is the official Repository of RadCLIP: RadCLIP: Enhancing Radiologic Image Analysis Through Contrastive Language–Image Pretraining
+This is the official Repository of RadCLIP: RadCLIP: Enhancing Radiologic Image Analysis Through Contrastive Language–Image Pretraining (https://pubmed.ncbi.nlm.nih.gov/40434863/)
 
 # RadCLIP
 RadCLIP is trained on over 1.15 million 2D radiologic image–text pairs and 52,766 3D volumetric pairs spanning X-ray, CT, and MRI, drawn from 14 public collections.
